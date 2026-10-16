@@ -5,10 +5,10 @@ StackLeniency: 0.5
 Mode: 0
 
 [Difficulty]
-HPDrainRate:6
+HPDrainRate:4
 CircleSize:4
 OverallDifficulty:7
-SliderMultiplier:2.4
+SliderMultiplier:1.2
 SliderTickRate:2
 
 [Events]
